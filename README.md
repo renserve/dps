@@ -1,3 +1,4 @@
+# `dps/src/pp.js`可改变pc默认宽高: [1200, 1000]，即可生成相应viewport的骨架屏
 # dps(draw-page-structure)
 
 ![NPM](https://img.shields.io/npm/l/draw-page-structure)
